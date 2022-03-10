@@ -1,0 +1,11 @@
+{
+  "name": "joker",
+  "version": "1.0.0",
+  "description": "lok",
+  "main": "tp.ts",
+  "scripts": {
+    "test": "pik"
+  },
+  "author": "",
+  "license": "ISC"
+}
